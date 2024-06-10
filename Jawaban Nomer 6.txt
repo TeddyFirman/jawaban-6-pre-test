@@ -1,0 +1,1 @@
+Rest API adalah penghubung antara backend (database) ke front end (tampilan).
